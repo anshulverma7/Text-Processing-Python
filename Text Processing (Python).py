@@ -2,8 +2,6 @@
 
 # Text Processing 
 
-# EM624 - Exercise 08
-
 import pandas as pd
 
 # to open the csv file
